@@ -23,7 +23,7 @@ The majority of the code and detailed documentation will be released after the p
 Have questions or need assistance? We’re here to help:
 - **Telegram**: Join our Telegram chat for general inquiries.
 - **Discord**: Visit the development section on our Discord server.
-- **Email**: For specific technical questions, reach out to us at [dev@octra.org](mailto:dev@octra.org).
+- **Email**: For specific technical questions, reach out to us at [dev@octra.qzz.io](mailto:dev@octra.qzz.io).
 
 ## Contributing
 We welcome contributions to our open-source codebase once it’s publicly available. Stay tuned for updates on how to contribute after the testnet launch.
